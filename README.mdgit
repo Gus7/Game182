@@ -1,0 +1,1 @@
+"# Game-to-the-test"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Gus7/Game-to-the-test.gitgit push -u origin master
